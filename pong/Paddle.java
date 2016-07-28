@@ -8,7 +8,7 @@ public class Paddle
 
 	public int paddleNumber;
 
-	public int x, y, width = 50, height = 250;
+	public int x, y, width = 50, height = 50;
 
 	public int score;
 
